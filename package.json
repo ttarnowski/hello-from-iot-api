@@ -1,0 +1,11 @@
+{
+  "name": "hello-from-iot-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ttarnowski/hello-from-iot-api.git",
+  "author": "Tomasz Tarnowski <tomasz.tarnowski@thirdbridge.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "serverless": "^2.34.0"
+  }
+}

@@ -7,7 +7,16 @@ Go Serverless Hello From IoT webservice
 - Go
 
 ## Building
-Run `make build`
+- Install serverless: `yarn install`
+- Run `make build`
 
 ## Deploying
 Run `make deploy`
+
+## Link to YouTube Video (Day9):
+
+https://www.youtube.com/watch?v=Ia1IdQc4aRA
+
+## All Days List:
+
+https://github.com/ttarnowski/100DaysOfCodeInIoT
