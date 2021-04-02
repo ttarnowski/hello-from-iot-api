@@ -1,0 +1,10 @@
+{
+  "name": "hello-from-iot-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tomasz Tarnowski <tomasz.tarnowski@thirdbridge.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serverless": "^2.25.2"
+  }
+}
